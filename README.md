@@ -1,6 +1,6 @@
 # Project Portfolio
 
-Welcome to my project showcase! This repository serves as a central hub linking to my school and independent Python projects.
+Welcome to my project showcase! This repository serves as a central hub linking to my school and independent projects.
 
 ---
 
