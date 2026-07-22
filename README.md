@@ -4,7 +4,7 @@ Welcome to my project showcase! This repository serves as a central hub linking 
 
 ---
 
-## 🚀 Projects
+## Projects
 
 | Preview | Project | Core Tech Stack | Quick Links |
 | :---: | :--- | :--- | :---: |
