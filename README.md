@@ -12,3 +12,10 @@ Welcome to my project showcase! This repository serves as a central hub linking 
 
 ---
 📬 **Looking to connect?** Feel free to explore the repository above or reach out via [LinkedIn](https://linkedin.com).
+
+
+
+
+
+
+https://github.com/DrivenByLaziness/Analog-Metal-Detector.git
