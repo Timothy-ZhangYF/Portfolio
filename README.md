@@ -20,7 +20,7 @@ Welcome to my portfolio! Below is a curated collection of my featured projects a
 | Embedded Systems & Firmware | Machine Learning & Edge Computing | Hardware Design & Lab Tools |
 | :--- | :--- | :--- |
 | • C, C++, Python | • PyTorch, TensorFlow | • Schematic Capture & PCB Layout (Altium) |
-| • Microcontrollers (ESP32, STM32) | • Model Quantization (TFlite, Hailo, IMX500) | • Circuit Simulation (LTspice, Cadence) |
+| • Microcontrollers (ESP32, STM32) | • Model Quantization (TFlite/micro, Hailo, IMX500) | • Circuit Simulation (LTspice, Cadence) |
 | • Communication Protocols (SPI, I2C, UART) | • Computer Vision (OpenCV, YOLO) | • CAD / Mechanical (SolidWorks CSWA, Fusion, Onshape) |
 | • FreeRTOS / Bare-Metal | • Linux Systems (SBCs, Servers, CLI) | • Rapid Prototyping (3D Printing, Laser Cutting) |
 | • IoT Networking (MQTT, VPN, Hosting) | • Data Science (NumPy, Pandas, Matplotlib) | • Lab Equipment (Oscilloscopes, Logic Analyzers)  |
