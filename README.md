@@ -22,7 +22,7 @@ Welcome to my portfolio! Below is a curated collection of my featured projects a
 | • C, C++, Python | • PyTorch, TensorFlow | • Schematic Capture & PCB Layout (Altium) |
 | • Microcontrollers (ESP32, STM32) | • TFLite / TFLite Micro | • Circuit Simulation (LTspice, Cadence) |
 | • Communication Protocols (SPI, I2C, UART) | • Computer Vision (OpenCV) | • Lab Equipment (Oscilloscopes, Logic Analyzers) |
-| • CAD / Enclosures (SolidWorks CSWA, Fusion 360) | • Data Science (NumPy, Pandas, Matplotlib) | • Rapid Prototyping (3D Printing, Laser Cutting) |
+| • CAD / Mechanical (SolidWorks CSWA, Fusion 360, Onshape) | • Data Science (NumPy, Pandas, Matplotlib) | • Rapid Prototyping (3D Printing, Laser Cutting) |
 
 ---
 
