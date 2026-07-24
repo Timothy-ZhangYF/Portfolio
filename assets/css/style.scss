@@ -1,0 +1,14 @@
+---
+---
+@import "{{ site.theme }}";
+
+// Adjust container widths to fill the screen
+.wrapper {
+  width: 90%;          // Expands layout to 90% viewport width
+  max-width: 1200px;   // Sets a clean outer boundary for ultra-wide monitors
+}
+
+section {
+  width: 70%;          // Allows the text content section to be much wider
+  max-width: 100%;     // Prevents clamping restrictions
+}
