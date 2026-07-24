@@ -25,7 +25,6 @@ Welcome to my portfolio! Below is a curated collection of my featured projects a
 | • FreeRTOS / Bare-Metal | • Linux Systems (SBCs, Servers, CLI) | • Rapid Prototyping (3D Printing, Laser Cutting) |
 | • IoT Networking (MQTT, VPN, Hosting) | • Data Science (NumPy, Pandas, Matplotlib) | • Lab Equipment (Oscilloscopes, Logic Analyzers)  |
 
-• Lab Equipment (Oscilloscopes, Logic Analyzers) 
 
 ---
 
