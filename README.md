@@ -1,6 +1,6 @@
 # Hi, I'm Timothy Zhang 
 
-Electrical Engineering student with a passion for embedded systems, edge AI (TinyML), custom hardware design, and augmented reality hardware. 
+Electrical Engineering student with a passion for embedded systems, edge AI (TinyML), custom hardware design (EDA & CAD), and augmented reality hardware.
 
 Welcome to my portfolio! Below is a curated collection of my featured projects across embedded software, machine learning, and analog/digital hardware design.
 
@@ -10,8 +10,8 @@ Welcome to my portfolio! Below is a curated collection of my featured projects a
 
 | Project | Domain / Tech Stack | Highlights | Repository |
 | :--- | :--- | :--- | :--- |
-| **Ohm Sweet Ohm: TinyML Resistor Classifier** | TinyML, Edge Vision, ESP32-S3, TFLite Micro, C++ | **99.74% INT8 quantized accuracy** on an ESP32-S3 microcontroller (~1.2s latency) for real-time resistor sorting across 10 classes. | [View Project](https://github.com/timothy-zhang/TinyML-Resistor-Classifier) |
-| **Discrete Analog Metal Detector** | Analog Circuits, PCB Design, LTspice, Oscillators | Heterodyne beat-frequency metal detector with custom-wound sensing coil, MOSFET mixer, and audio amplifier. **90.9% detection accuracy**. | [View Project](https://github.com/timothy-zhang/Analog-Metal-Detector) |
+| **Ohm Sweet Ohm: TinyML Resistor Classifier** | TinyML, Edge Vision, ESP32-S3, TFLite Micro, C++ | **99.74% INT8 quantized accuracy** on an ESP32-S3 microcontroller (~1.2s latency) for real-time resistor sorting across 10 classes. | [View Project](https://github.com/Timothy-ZhangYF/TinyML-Resistor-Classifier) |
+| **Discrete Analog Metal Detector** | Analog Circuits, PCB Design, LTspice, Oscillators | Heterodyne beat-frequency metal detector with custom-wound sensing coil, MOSFET mixer, and audio amplifier. **90.9% detection accuracy**. | [View Project](https://github.com/Timothy-ZhangYF/Analog-Metal-Detector) |
 
 ---
 
