@@ -26,16 +26,3 @@ Welcome to my portfolio! Below is a curated collection of my featured projects a
 | • IoT Networking<br>*(MQTT, VPN, Hosting)* | • Data Science<br>*(NumPy, Pandas, Matplotlib)* | • Lab Equipment<br>*(Oscilloscopes, Logic Analyzers)* |
 
 
----
-
-## Additional Projects
-
-* **[Embedded Air Quality Monitor](https://github.com/timothy-zhang/Air-Quality-Dashboard)** – Real-time CO₂ and particulate matter monitoring system running on an ESP32-C3 with live TFT display output.
-* **[Headless Video Capture Pipeline](https://github.com/timothy-zhang/Video-Capture-Script)** – Automated Python capture application running on Raspberry Pi for automated point-and-shoot recording over Serial.
-
-
-## Connect with Me
-
-- **GitHub:** [github.com/timothy-zhang](https://github.com/timothy-zhang)
-- **LinkedIn:** [linkedin.com/in/timothy-zhang](https://linkedin.com/in/timothy-zhang)
-- **Portfolio / Website:** [timothyzhang.com](https://timothyzhang.com)
