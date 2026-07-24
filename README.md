@@ -17,18 +17,13 @@ Welcome to my portfolio! Below is a curated collection of my featured projects a
 
 ## Technical Core & Tooling
 
-```
-+-------------------------------------------------------------------------------+
-|                             Technical Toolbox                                 |
-+--------------------------+--------------------------+-------------------------+
-| Embedded & Firmware      | Machine Learning & Vision| Hardware & PCB Design   |
-+--------------------------+--------------------------+-------------------------+
-| • C / C++ (ESP32, STM32) | • TensorFlow / TFLite    | • Schematic & PCB Layout|
-| • Python & Bash Scripting| • TFLite Micro           | • LTspice Simulation    |
-| • FreeRTOS / Bare-Metal  | • Edge Computer Vision   | • Oscilloscopes & DMMs  |
-| • SPI, I2C, UART, Serial | • OpenCV & Image Processing| • Soldering & Hardware |
-+--------------------------+--------------------------+-------------------------+
-```
+
+| Embedded & Firmware | Machine Learning & Edge AI | Hardware & Circuit Design |
+| :--- | :--- | :--- |
+| • C / C++ (ESP32, STM32) | • TensorFlow / TFLite | • Schematic & PCB Layout |
+| • Python & Bash Scripting | • TFLite Micro | • LTspice Simulation |
+| • FreeRTOS / Bare-Metal | • Edge Computer Vision | • Oscilloscopes & Multimeters |
+| • SPI, I2C, UART, Serial | • OpenCV & Image Processing | • Soldering & Hardware Debugging |
 
 ---
 
