@@ -29,3 +29,10 @@ Welcome to my portfolio! Below is a curated collection of my featured projects a
 | • IoT Networking<br>*(MQTT, VPN, Hosting)* | • Data Science<br>*(NumPy, Pandas, Matplotlib)* | • Lab Equipment<br>*(Oscilloscopes, Logic Analyzers)* |
 
 
+## Additional Projects
+
+blah blah blah
+
+## Contact Me
+
+Links tbd
