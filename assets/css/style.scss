@@ -30,6 +30,11 @@ table, th, td {
   border-color: $border-color !important;
 }
 
+tr:nth-child(even) {
+  background-color: #1a1a1a !important; 
+}
+
+
 @import "{{ site.theme }}";
 
 // Keep your wide container layouts intact
