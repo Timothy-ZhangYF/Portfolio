@@ -1,6 +1,6 @@
 # Hi, I'm Timothy Zhang 
 
-Electrical Engineering student with a passion for embedded systems, edge AI (TinyML), custom hardware design (EDA & CAD), and augmented reality hardware.
+Electrical Engineer with a passion for embedded systems, edge AI (TinyML), real-time controls, and custom hardware design (EDA & CAD).
 
 Welcome to my portfolio! Below is a curated collection of my featured projects across embedded software, machine learning, and analog/digital hardware design.
 
@@ -32,21 +32,11 @@ Welcome to my portfolio! Below is a curated collection of my featured projects a
 
 ---
 
-## Highlighted Technical Areas
+## Additional Projects
 
-### Embedded Systems & Edge AI
-Projects focusing on bringing machine learning models directly onto resource-constrained microcontrollers and single-board computers.
+* **[Embedded Air Quality Monitor](https://github.com/timothy-zhang/Air-Quality-Dashboard)** – Real-time CO₂ and particulate matter monitoring system running on an ESP32-C3 with live TFT display output.
+* **[Headless Video Capture Pipeline](https://github.com/timothy-zhang/Video-Capture-Script)** – Automated Python capture application running on Raspberry Pi for automated point-and-shoot recording over Serial.
 
-* **[TinyML Resistor Classifier](https://github.com/timothy-zhang/TinyML-Resistor-Classifier)** – Real-time optical resistor classification running MobileNetV2 ($ lpha = 0.50$) on an ESP32-S3.
-
----
-
-### Hardware & Analog Circuit Design
-Projects covering the full hardware engineering lifecycle: analytical calculations, LTspice simulation, schematic capture, PCB layout, and physical oscilloscope debugging.
-
-* **[Analog Metal Detector](https://github.com/timothy-zhang/Analog-Metal-Detector)** – Fully discrete BFO metal detector utilizing LC oscillators, a nonlinear MOSFET mixer, low-pass filtering, and audio power amplifiers.
-
----
 
 ## Connect with Me
 
