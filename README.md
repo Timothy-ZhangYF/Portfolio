@@ -27,6 +27,17 @@ Welcome to my portfolio! Below is a curated collection of my featured projects a
 
 ---
 
+## Technical Skills
+
+| Embedded Systems & Firmware | Edge AI & Software | Hardware Design & Lab Tools |
+| :--- | :--- | :--- |
+| • C, C++, Python | • PyTorch, TensorFlow | • Schematic Capture & PCB Layout (Altium, Cadence) |
+| • Microcontrollers (ESP32, STM32) | • TFLite / TFLite Micro | • Circuit Simulation (LTspice) |
+| • Communication Protocols (SPI, I2C, UART) | • Computer Vision (OpenCV) | • Lab Equipment (Oscilloscopes, Logic Analyzers) |
+| • CAD / Enclosures (SolidWorks CSWA, Fusion 360) | • Data Science (NumPy, Pandas, Matplotlib) | • Rapid Prototyping (3D Printing, Laser Cutting) |
+
+
+
 ## Additional Projects
 
 * **[Embedded Air Quality Monitor](https://github.com/timothy-zhang/Air-Quality-Dashboard)** – Real-time CO₂ and particulate matter monitoring system running on an ESP32-C3 with live TFT display output.
