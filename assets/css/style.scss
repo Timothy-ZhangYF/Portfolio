@@ -1,14 +1,38 @@
 ---
 ---
+// Define dark mode colors before importing the theme
+$body-background: #121212;   // Deep jet-black background
+$text-color: #e0e0e0;        // Soft, crisp off-white text (easier on the eyes)
+$headline-color: #ffffff;    // Pure white for headers
+$link-color: #58a6ff;        // Bright blue for clickable links (GitHub style)
+$border-color: #30363d;      // Subtle dark grey for table lines
+
+body {
+  background-color: $body-background !important;
+  color: $text-color !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: $headline-color !important;
+}
+
+a {
+  color: $link-color !important;
+}
+
+table, th, td {
+  border-color: $border-color !important;
+}
+
 @import "{{ site.theme }}";
 
-// Adjust container widths to fill the screen
+// Keep your wide container layouts intact
 .wrapper {
-  width: 90%;          // Expands layout to 90% viewport width
-  max-width: 2200px;   // Sets a clean outer boundary for ultra-wide monitors
+  width: 90%;          
+  max-width: 2200px;   
 }
 
 section {
-  width: 75%;          // Allows the text content section to be much wider
-  max-width: 100%;     // Prevents clamping restrictions
+  width: 75%;          
+  max-width: 100%;     
 }
