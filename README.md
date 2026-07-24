@@ -17,26 +17,14 @@ Welcome to my portfolio! Below is a curated collection of my featured projects a
 
 ## Technical Core & Tooling
 
-
-| Embedded & Firmware | Machine Learning & Edge AI | Hardware & Circuit Design |
-| :--- | :--- | :--- |
-| • C / C++ (ESP32, STM32) | • TensorFlow / TFLite | • Schematic & PCB Layout |
-| • Python & Bash Scripting | • TFLite Micro | • LTspice Simulation |
-| • FreeRTOS / Bare-Metal | • Edge Computer Vision | • Oscilloscopes & Multimeters |
-| • SPI, I2C, UART, Serial | • OpenCV & Image Processing | • Soldering & Hardware Debugging |
-
----
-
-## Technical Skills
-
 | Embedded Systems & Firmware | Edge AI & Software | Hardware Design & Lab Tools |
 | :--- | :--- | :--- |
-| • C, C++, Python | • PyTorch, TensorFlow | • Schematic Capture & PCB Layout (Altium, Cadence) |
-| • Microcontrollers (ESP32, STM32) | • TFLite / TFLite Micro | • Circuit Simulation (LTspice) |
+| • C, C++, Python | • PyTorch, TensorFlow | • Schematic Capture & PCB Layout (Altium) |
+| • Microcontrollers (ESP32, STM32) | • TFLite / TFLite Micro | • Circuit Simulation (LTspice, Cadence) |
 | • Communication Protocols (SPI, I2C, UART) | • Computer Vision (OpenCV) | • Lab Equipment (Oscilloscopes, Logic Analyzers) |
 | • CAD / Enclosures (SolidWorks CSWA, Fusion 360) | • Data Science (NumPy, Pandas, Matplotlib) | • Rapid Prototyping (3D Printing, Laser Cutting) |
 
-
+---
 
 ## Additional Projects
 
