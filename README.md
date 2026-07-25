@@ -15,6 +15,7 @@ Welcome to my portfolio! Below is a curated collection of my featured projects a
 | **MEAM510** |  |  | [View Project](https://github.com/Timothy-ZhangYF/TBD) |
 | **ESE516** |  |  | [View Project](https://github.com/Timothy-ZhangYF/TBD) |
 | **Senior Design** |  |  | [View Project](https://github.com/Timothy-ZhangYF/TBD) |
+| **YOLO Train** |  |  | [View Project](https://github.com/Timothy-ZhangYF/TBD) |
 
 ---
 
