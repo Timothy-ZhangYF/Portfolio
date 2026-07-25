@@ -30,8 +30,7 @@ Welcome to my portfolio! Below is a curated collection of my featured projects a
 
 
 ## Additional Projects
-
-blah blah blah
+ESE519, rpicamera, air? maybe 
 
 ## Contact Me
 
